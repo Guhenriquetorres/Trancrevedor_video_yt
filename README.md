@@ -7,7 +7,7 @@ Este projeto permite baixar o áudio de vídeos do YouTube, transcrever automati
 - Download de áudio de vídeos do YouTube (`yt-dlp`)
 - Transcrição automática com Whisper local (OpenAI)
 - Análise de sentimento do texto usando modelo BERT multilíngue da Hugging Face
-- Tudo rodando localmente, sem custos com API
+- Tudo rodando localmente, sem custos com API (Whisper Open Source)
 
 ## Requisitos
 
