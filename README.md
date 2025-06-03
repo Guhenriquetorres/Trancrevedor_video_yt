@@ -2,6 +2,7 @@
 
 Este projeto permite baixar o áudio de vídeos do YouTube, transcrever automaticamente usando o modelo Whisper local (open source e gratuito), e analisar o sentimento do texto gerado usando modelos da Hugging Face.
 
+Com objetivo póstumo de escalar essa operação, para mais vídeos.
 ## Funcionalidades
 
 - Download de áudio de vídeos do YouTube (`yt-dlp`)
