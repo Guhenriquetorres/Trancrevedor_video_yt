@@ -25,3 +25,7 @@ pip install git+https://github.com/openai/whisper.git
 pip install yt-dlp
 pip install torch
 pip install transformers
+
+
+
+**TROQUE AS PASTAS LOCAIS**
